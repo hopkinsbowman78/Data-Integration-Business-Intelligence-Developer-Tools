@@ -1,10 +1,10 @@
 # Data-Integration-Business-Intelligence-Developer-Tools
 
-## Microsoft Azure Tools
+## Microsoft/Azure
 
 #### [Microsoft SQL Tools](https://learn.microsoft.com/en-us/sql/tools/overview-sql-tools?view=sql-server-ver16)
 
-#### [Microaoft SSIS](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16)
+#### [Microsoft SSIS](https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16)
 
 #### [Microsoft TSQL](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16)
 
@@ -12,7 +12,7 @@
 
 #### [Microsoft Excel](https://support.microsoft.com/en-us/excel)
 
-## Google Cloud Tools
+## Google Cloud
 
 #### [Google Cloud Tools](https://cloud.google.com/products/?_gl=1*1q0oxdq*_up*MQ..&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkWvGHx9iLYgNDqrtILfZP2mQUtZPQS9aBwbZy4VrOTnm7g6EpHWQh8aApMXEALw_wcB&gclsrc=aw.ds)
 
