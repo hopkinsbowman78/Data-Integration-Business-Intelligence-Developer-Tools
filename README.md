@@ -5,34 +5,18 @@
 
 #### Microaoft SSIS Documentation https://learn.microsoft.com/en-us/sql/integration-services/sql-server-integration-services?view=sql-server-ver16
 
-#### TSQL Documentation https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16
+#### Microsoft TSQL Documentation https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16
 
-#### PowerBI
+#### Microsoft PowerBI Documentation https://learn.microsoft.com/en-us/power-bi/
 
-#### Excel and Power Pivot
+#### Microsoft Excel https://support.microsoft.com/en-us/excel
 
-#### Google Analytics 4+
+#### Google Cloud Tools https://cloud.google.com/products/?_gl=1*1q0oxdq*_up*MQ..&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkWvGHx9iLYgNDqrtILfZP2mQUtZPQS9aBwbZy4VrOTnm7g6EpHWQh8aApMXEALw_wcB&gclsrc=aw.ds
 
-#### Looker
+#### Google Analytics https://developers.google.com/analytics
 
-#### BigQuery
+#### Looker Studio https://cloud.google.com/looker-studio
 
-#### Qualifications
-Experience with database platforms, especially MS SQL Server
-Strong experience with T-SQL
-Strong understanding of relational and dimensional database structures, theories, principles, and practices
-Hands-on experience with data warehouse architecture, extract/transform/load (ETL) and business requirements gathering and analysis
-Experience with MS SQL Server Integration Services (SSIS)
-Exceptional analytical, conceptual, and problem-solving abilities
-Strong written and oral communication skills with ability to present ideas in user-friendly language
-Excellent technical architecture and technical support documentation skills
-Strong presentation and interpersonal skills with ability to establish professional rapport with all levels of management, staff, and outside public
-Strong ability to conduct research into database issues, standards and products as required
-Strong time management skills with ability to effectively prioritize and execute tasks in a high-pressure environment
-Self-motivated with ability to work independently as well as be an effective member of a collaborative team
-Familiarity with SQL Server Reporting Services (SSRS)
-Familiarity with Excel PowerPivot and PowerBI
-Familiarity with Azure, Google Cloud Platform, BigQuery and other cloud platforms
-Familiarity with Google Analytics 4 and Looker Studio
-Working technical knowledge of current systems software, protocols, and standards, including MS Windows Server operating systems, and TCP/IP
-Good knowledge of applicable data privacy practices and laws
+#### BigQuery https://cloud.google.com/bigquery?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1707554&utm_content=text-ad-none-any-DEV_c-CRE_665665924750-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt-Data+Analytics-BigQuery-KWID_43700077225652815-kwd-47616965283&utm_term=KW_bigquery-ST_bigquery&gad_source=1&gclid=Cj0KCQiApNW6BhD5ARIsACmEbkUKu3-1Mm6CAwAS6E3EPlsSUnKWf7JrONYVRRyWY3eodlFHLZ2DeRQaAuFuEALw_wcB&gclsrc=aw.ds
+
+#### Current Data Privacy Laws and Practices https://www.osano.com/articles/data-privacy-laws
